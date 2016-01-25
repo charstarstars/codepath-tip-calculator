@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "048165961C4D97F0003F57FB"
+               BuildableName = "codepath_wk1_tips.app"
+               BlueprintName = "codepath_wk1_tips"
+               ReferencedContainer = "container:codepath_wk1_tips.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "048165AA1C4D97F0003F57FB"
+               BuildableName = "codepath_wk1_tipsTests.xctest"
+               BlueprintName = "codepath_wk1_tipsTests"
+               ReferencedContainer = "container:codepath_wk1_tips.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "048165B51C4D97F0003F57FB"
+               BuildableName = "codepath_wk1_tipsUITests.xctest"
+               BlueprintName = "codepath_wk1_tipsUITests"
+               ReferencedContainer = "container:codepath_wk1_tips.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "048165961C4D97F0003F57FB"
+            BuildableName = "codepath_wk1_tips.app"
+            BlueprintName = "codepath_wk1_tips"
+            ReferencedContainer = "container:codepath_wk1_tips.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "048165961C4D97F0003F57FB"
+            BuildableName = "codepath_wk1_tips.app"
+            BlueprintName = "codepath_wk1_tips"
+            ReferencedContainer = "container:codepath_wk1_tips.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "048165961C4D97F0003F57FB"
+            BuildableName = "codepath_wk1_tips.app"
+            BlueprintName = "codepath_wk1_tips"
+            ReferencedContainer = "container:codepath_wk1_tips.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
