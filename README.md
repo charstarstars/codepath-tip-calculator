@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - codepath_wk1_tips
 
 Codepath_wk1_tips is a tip calculator application for iOS.
 
@@ -19,6 +19,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
+![codepath-tips](https://cloud.githubusercontent.com/assets/1366208/12541128/0a868276-c2c7-11e5-9233-d01e645445e3.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
